@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Welcome to my GitHub profile</h1>
 
-<p>Hi, I'm <strong>Mohamed Hendawy</strong> – a passionate <strong>Front-End Web Developer</strong> with a love for modern UI/UX, performance optimization, and cutting-edge technologies.</p>
+<p>Hi, I'm <strong>Muhammad Hindawi |محمد هنداوي </strong> – a passionate <strong>Front-End Web Developer</strong> with a love for modern UI/UX, performance optimization, and cutting-edge technologies.</p>
 
 <p>I’m also deeply interested in the world of <strong>FPV drones and unmanned aerial vehicles</strong> 🚁, combining tech, creativity, and flight!</p>
 
